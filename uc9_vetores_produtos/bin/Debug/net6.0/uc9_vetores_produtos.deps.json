@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "uc9_vetores_produtos/1.0.0": {
+        "runtime": {
+          "uc9_vetores_produtos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uc9_vetores_produtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

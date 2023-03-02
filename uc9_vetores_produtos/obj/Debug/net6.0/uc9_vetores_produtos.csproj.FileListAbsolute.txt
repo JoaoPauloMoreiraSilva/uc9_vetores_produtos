@@ -1,0 +1,15 @@
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\bin\Debug\net6.0\uc9_vetores_produtos.exe
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\bin\Debug\net6.0\uc9_vetores_produtos.deps.json
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\bin\Debug\net6.0\uc9_vetores_produtos.runtimeconfig.json
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\bin\Debug\net6.0\uc9_vetores_produtos.dll
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\bin\Debug\net6.0\ref\uc9_vetores_produtos.dll
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\bin\Debug\net6.0\uc9_vetores_produtos.pdb
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\obj\Debug\net6.0\uc9_vetores_produtos.csproj.AssemblyReference.cache
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\obj\Debug\net6.0\uc9_vetores_produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\obj\Debug\net6.0\uc9_vetores_produtos.AssemblyInfoInputs.cache
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\obj\Debug\net6.0\uc9_vetores_produtos.AssemblyInfo.cs
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\obj\Debug\net6.0\uc9_vetores_produtos.csproj.CoreCompileInputs.cache
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\obj\Debug\net6.0\uc9_vetores_produtos.dll
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\obj\Debug\net6.0\ref\uc9_vetores_produtos.dll
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\obj\Debug\net6.0\uc9_vetores_produtos.pdb
+C:\Users\joao.pmsilva47\source\repos\uc9_vetores_produtos\uc9_vetores_produtos\obj\Debug\net6.0\uc9_vetores_produtos.genruntimeconfig.cache
